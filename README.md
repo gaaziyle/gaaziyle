@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Frontend Developer<br>🏙 Magephe
+🌱 Web Developer<br>Full Stack
 
 
 ## 🌐 Socials:
